@@ -8,7 +8,7 @@ This project is part of my learning journey into web development and cybersecuri
 ## What I built so far
 - Homepage layout using HTML and CSS
 - Navigation bar and hero section
-- Event filtering UI (age, season, cost)
+- Event filtering UI (age, season, cost, family size)
 - Basic event card structure
 
 ## Status
@@ -21,7 +21,7 @@ This project is currently **in progress**. I am actively improving layout, styli
 - Iterative development and problem-solving
 
 ## Future improvements
-- Responsive design (mobile-friendly)
+- Responsive design
 - JavaScript interactivity (filters/search)
 - UI/UX improvements
 
