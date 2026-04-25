@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    font-family: 'Nunito', sans-serif;
+    background-color: rgba(165, 42, 42, 0.042);
+    color: rgb(10, 10, 55);
+   
+}
+
+/*-HEADER-*/
+
+header {
+    background: #0a2342;
+    padding: 20px 40px;
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+header h1 {
+    font-family: 'Fraunces', serif;
+    color: #ffd166;
+    font-size: 1.8rem;
+    
+}
+
+header nav a{
+    color: #ccc;
+    margin-left: 24px;
+    font-size: 0.95rem;
+    font-weight: 700;
+    transition: color 1s;
+    text-decoration: none;
+    
+}
+
+header nav a:hover {
+    color:#ffc766ee;
+}
+
+/*- HERO -*/
+.hero {
+    background: linear-gradient(135deg, #0a2342 0%, #1a3a6b 100%);
+    padding: 70px 40px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+    
